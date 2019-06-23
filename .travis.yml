@@ -1,2 +1,2 @@
-language: python
-script: test.py
+language: python2.7
+script: python test.py
